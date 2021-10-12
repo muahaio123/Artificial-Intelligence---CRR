@@ -1,0 +1,898 @@
+Agent Challenge 5: Chocolate Russian roulette
+Iteration results
+
+3x4 bar, A = Jackie, B = Nam:
+| OO. | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XOO | XO. | XO  | XO  | XO  | XO  | ..  |
+Winner: B (Nam)
+Squares eaten: A 7, B 5
+
+3x4 bar, A = Jackie, B = Smith:
+| OO. | OO  | O.  | O   | O   | O   | O   | O   | .   |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Jackie)
+Squares eaten: A 7, B 5
+
+3x4 bar, A = Nam, B = Jackie:
+| OO. | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | .   |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XO. | XO  | XO  | XO  | XO  | ..  |
+Winner: A (Nam)
+Squares eaten: A 6, B 6
+
+3x4 bar, A = Nam, B = Smith:
+| OO. | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OO. | O.  | O   | .   |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Nam)
+Squares eaten: A 7, B 5
+
+3x4 bar, A = Smith, B = Jackie:
+| OO. | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Jackie)
+Squares eaten: A 6, B 6
+
+3x4 bar, A = Smith, B = Nam:
+| OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OO. | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Nam)
+Squares eaten: A 5, B 7
+
+3x5 bar, A = Jackie, B = Nam:
+| OO. | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: B (Nam)
+Squares eaten: A 8, B 7
+
+3x5 bar, A = Jackie, B = Smith:
+| OO. | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Jackie)
+Squares eaten: A 9, B 6
+
+3x5 bar, A = Nam, B = Jackie:
+| OO. | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: A (Nam)
+Squares eaten: A 8, B 7
+
+3x5 bar, A = Nam, B = Smith:
+| OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Nam)
+Squares eaten: A 10, B 5
+
+3x5 bar, A = Smith, B = Jackie:
+| OO. | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Jackie)
+Squares eaten: A 7, B 8
+
+3x5 bar, A = Smith, B = Nam:
+| OO. | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OO. | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Nam)
+Squares eaten: A 6, B 9
+
+3x6 bar, A = Jackie, B = Nam:
+| OO. | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: B (Nam)
+Squares eaten: A 9, B 9
+
+3x6 bar, A = Jackie, B = Smith:
+| OO. | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | XO  | XO  | X.  | X   | .   |
+Winner: A (Jackie)
+Squares eaten: A 10, B 8
+
+3x6 bar, A = Nam, B = Jackie:
+| OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: A (Nam)
+Squares eaten: A 10, B 8
+
+3x6 bar, A = Nam, B = Smith:
+| OO. | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Nam)
+Squares eaten: A 12, B 6
+
+3x6 bar, A = Smith, B = Jackie:
+| OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Jackie)
+Squares eaten: A 8, B 10
+
+3x6 bar, A = Smith, B = Nam:
+| OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Nam)
+Squares eaten: A 6, B 12
+
+3x7 bar, A = Jackie, B = Nam:
+| OO. | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: B (Nam)
+Squares eaten: A 10, B 11
+
+3x7 bar, A = Jackie, B = Smith:
+| OO. | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | XO  | XO  | X.  | X   | .   |
+Winner: A (Jackie)
+Squares eaten: A 12, B 9
+
+3x7 bar, A = Nam, B = Jackie:
+| OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: A (Nam)
+Squares eaten: A 12, B 9
+
+3x7 bar, A = Nam, B = Smith:
+| OO. | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Nam)
+Squares eaten: A 15, B 6
+
+3x7 bar, A = Smith, B = Jackie:
+| OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Jackie)
+Squares eaten: A 9, B 12
+
+3x7 bar, A = Smith, B = Nam:
+| OO. | OO  | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Nam)
+Squares eaten: A 7, B 14
+
+3x8 bar, A = Jackie, B = Nam:
+| OO. | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: B (Nam)
+Squares eaten: A 11, B 13
+
+3x8 bar, A = Jackie, B = Smith:
+| OO. | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | XO  | XO  | X.  | X   | .   |
+Winner: A (Jackie)
+Squares eaten: A 14, B 10
+
+3x8 bar, A = Nam, B = Jackie:
+| OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: A (Nam)
+Squares eaten: A 14, B 10
+
+3x8 bar, A = Nam, B = Smith:
+| OO. | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Nam)
+Squares eaten: A 17, B 7
+
+3x8 bar, A = Smith, B = Jackie:
+| OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Jackie)
+Squares eaten: A 10, B 14
+
+3x8 bar, A = Smith, B = Nam:
+| OO. | OO  | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Nam)
+Squares eaten: A 7, B 17
+
+3x9 bar, A = Jackie, B = Nam:
+| OO. | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: B (Nam)
+Squares eaten: A 12, B 15
+
+3x9 bar, A = Jackie, B = Smith:
+| OO. | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |     |
+| OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | XO  | XO  | X.  | X   | .   |
+Winner: A (Jackie)
+Squares eaten: A 16, B 11
+
+3x9 bar, A = Nam, B = Jackie:
+| OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | O   | .   |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |
+| XOO | XOO | XO. | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | XO  | ..  |
+Winner: A (Nam)
+Squares eaten: A 16, B 11
+
+3x9 bar, A = Nam, B = Smith:
+| OO. | OO  | OO  | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: A (Nam)
+Squares eaten: A 20, B 7
+
+3x9 bar, A = Smith, B = Jackie:
+| OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | O.  | O   | O   | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Jackie)
+Squares eaten: A 11, B 16
+
+3x9 bar, A = Smith, B = Nam:
+| OO. | OO  | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OO. | OO  | OO  | OO  | OO  | OO  | O.  | O   | .   |     |     |     |     |     |
+| OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OO. | OO  | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | ..  |     |     |     |     |     |
+| OOO | OOO | OOO | OOO | OOO | OOO | OOO | OOO | OO. | OO  | OO  | O.  | O   | .   |     |
+| XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XOO | XO. | XO  | X.  | X   | .   |
+Winner: B (Nam)
+Squares eaten: A 8, B 19
+
+4x5 bar, A = Jackie, B = Nam:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: B (Nam)
+Squares eaten: A 9, B 11
+
+4x5 bar, A = Jackie, B = Smith:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Jackie)
+Squares eaten: A 11, B 9
+
+4x5 bar, A = Nam, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: A (Nam)
+Squares eaten: A 12, B 8
+
+4x5 bar, A = Nam, B = Smith:
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Nam)
+Squares eaten: A 13, B 7
+
+4x5 bar, A = Smith, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XO.  | XO   | XO   | XO   | X.   | X    | .    |
+Winner: B (Jackie)
+Squares eaten: A 10, B 10
+
+4x5 bar, A = Smith, B = Nam:
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Nam)
+Squares eaten: A 8, B 12
+
+4x6 bar, A = Jackie, B = Nam:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: B (Nam)
+Squares eaten: A 10, B 14
+
+4x6 bar, A = Jackie, B = Smith:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | XO   | XO   | X.   | X    | .    |
+Winner: A (Jackie)
+Squares eaten: A 13, B 11
+
+4x6 bar, A = Nam, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: A (Nam)
+Squares eaten: A 15, B 9
+
+4x6 bar, A = Nam, B = Smith:
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Nam)
+Squares eaten: A 16, B 8
+
+4x6 bar, A = Smith, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Jackie)
+Squares eaten: A 11, B 13
+
+4x6 bar, A = Smith, B = Nam:
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Nam)
+Squares eaten: A 9, B 15
+
+4x7 bar, A = Jackie, B = Nam:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: B (Nam)
+Squares eaten: A 11, B 17
+
+4x7 bar, A = Jackie, B = Smith:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Jackie)
+Squares eaten: A 16, B 12
+
+4x7 bar, A = Nam, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: A (Nam)
+Squares eaten: A 18, B 10
+
+4x7 bar, A = Nam, B = Smith:
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Nam)
+Squares eaten: A 20, B 8
+
+4x7 bar, A = Smith, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | XO   | XO   | X.   | X    | .    |
+Winner: B (Jackie)
+Squares eaten: A 13, B 15
+
+4x7 bar, A = Smith, B = Nam:
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Nam)
+Squares eaten: A 9, B 19
+
+4x8 bar, A = Jackie, B = Nam:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: B (Nam)
+Squares eaten: A 12, B 20
+
+4x8 bar, A = Jackie, B = Smith:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | XO   | XO   | X.   | X    | .    |
+Winner: A (Jackie)
+Squares eaten: A 18, B 14
+
+4x8 bar, A = Nam, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: A (Nam)
+Squares eaten: A 21, B 11
+
+4x8 bar, A = Nam, B = Smith:
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Nam)
+Squares eaten: A 23, B 9
+
+4x8 bar, A = Smith, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Jackie)
+Squares eaten: A 14, B 18
+
+4x8 bar, A = Smith, B = Nam:
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Nam)
+Squares eaten: A 10, B 22
+
+4x9 bar, A = Jackie, B = Nam:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: B (Nam)
+Squares eaten: A 13, B 23
+
+4x9 bar, A = Jackie, B = Smith:
+| OOO. | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Jackie)
+Squares eaten: A 21, B 15
+
+4x9 bar, A = Nam, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | O    | .    |      |
+| OOOO | OOOO | OOOO | OOOO | OO.. | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | OO   | O.   | O    | .    |
+| XOOO | XOOO | XOOO | XOOO | XO.. | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | XO   | ..   |
+Winner: A (Nam)
+Squares eaten: A 24, B 12
+
+4x9 bar, A = Nam, B = Smith:
+| OOO. | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: A (Nam)
+Squares eaten: A 27, B 9
+
+4x9 bar, A = Smith, B = Jackie:
+| OOO. | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | O.   | O    | O    | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |      |      |
+| OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | O    | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | XO   | XO   | X.   | X    | .    |
+Winner: B (Jackie)
+Squares eaten: A 16, B 20
+
+4x9 bar, A = Smith, B = Nam:
+| OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | ..   |      |      |      |      |      |
+| OOOO | OOOO | OOOO | OOO. | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OOO  | OO.  | OO   | OO   | O.   | O    | .    |      |
+| XOOO | XOOO | XOOO | XOOO | XOO. | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XOO  | XO.  | XO   | X.   | X    | .    |
+Winner: B (Nam)
+Squares eaten: A 10, B 26
+
+5x6 bar, A = Jackie, B = Nam:
+| OOOO. | OOO.  | OO.   | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | .     |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OO..  | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OO... | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XO... | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | ..    |
+Winner: B (Nam)
+Squares eaten: A 10, B 20
+
+5x6 bar, A = Jackie, B = Smith:
+| OOOO. | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |       |
+| OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XOO   | XOO   | XO.   | XO    | XO    | XO    | X.    | X     | .     |
+Winner: A (Jackie)
+Squares eaten: A 16, B 14
+
+5x6 bar, A = Nam, B = Jackie:
+| OOO.. | OO.   | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | .     |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OO..  | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OO... | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XO... | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | ..    |
+Winner: A (Nam)
+Squares eaten: A 21, B 9
+
+5x6 bar, A = Nam, B = Smith:
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: A (Nam)
+Squares eaten: A 23, B 7
+
+5x6 bar, A = Smith, B = Jackie:
+| OOOO. | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XOO   | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: B (Jackie)
+Squares eaten: A 14, B 16
+
+5x6 bar, A = Smith, B = Nam:
+| OOOO. | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: B (Nam)
+Squares eaten: A 8, B 22
+
+5x7 bar, A = Jackie, B = Nam:
+| OOOO. | OOO.  | OO.   | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | .     |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OO..  | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OO... | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XO... | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | ..    |
+Winner: B (Nam)
+Squares eaten: A 11, B 24
+
+5x7 bar, A = Jackie, B = Smith:
+| OOOO. | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |       |
+| OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XOO   | XOO   | XO.   | XO    | XO    | XO    | X.    | X     | .     |
+Winner: A (Jackie)
+Squares eaten: A 19, B 16
+
+5x7 bar, A = Nam, B = Jackie:
+| OOO.. | OO.   | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | .     |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OO..  | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OO... | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XO... | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | ..    |
+Winner: A (Nam)
+Squares eaten: A 25, B 10
+
+5x7 bar, A = Nam, B = Smith:
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: A (Nam)
+Squares eaten: A 28, B 7
+
+5x7 bar, A = Smith, B = Jackie:
+| OOOO. | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XOO   | XOO   | XOO   | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: B (Jackie)
+Squares eaten: A 16, B 19
+
+5x7 bar, A = Smith, B = Nam:
+| OOOO. | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: B (Nam)
+Squares eaten: A 8, B 27
+
+5x8 bar, A = Jackie, B = Nam:
+| OOOO. | OOO.  | OO.   | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | .     |       |       |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |       |       |       |       |
+| OOOOO | OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OO..  | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OO... | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XO... | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | ..    |
+Winner: B (Nam)
+Squares eaten: A 12, B 28
+
+5x8 bar, A = Jackie, B = Smith:
+| OOOO. | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |
+| OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XOO   | XOO   | XOO   | XOO   | XO.   | XO    | XO    | ..    |
+Winner: B (Smith)
+Squares eaten: A 19, B 21
+
+5x8 bar, A = Nam, B = Jackie:
+| OOO.. | OO.   | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | .     |       |       |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | O.    | O     | O     | .     |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OO.   | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OO..  | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | O     | .     |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OO... | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | OO    | O.    | O     | .     |
+| XOOOO | XOOOO | XOOOO | XOOOO | XO... | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | XO    | ..    |
+Winner: A (Nam)
+Squares eaten: A 29, B 11
+
+5x8 bar, A = Nam, B = Smith:
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOO.. | OOO   | OOO   | OOO   | OOO   | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | ...   |       |       |       |       |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: A (Nam)
+Squares eaten: A 33, B 7
+
+5x8 bar, A = Smith, B = Jackie:
+| OOOO. | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OO.   | OO    | O.    | O     | O     | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | O     | .     |       |       |       |
+| OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOOO | OOOO. | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOOO  | OOO.  | OOO   | OOO   | OOO   | OOO   | OOO   | OO.   | O.    | O     | O     | O     | .     |       |
+| XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOOO | XOOO. | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOOO  | XOO.  | XOO   | XOO   | XOO   | XOO   | XOO   | XO.   | XO    | X.    | X     | .     |
+Winner: B (Jackie)
+Squares eaten: A 18, B 22
+
+5x8 bar, A = Smith, B = Nam:
